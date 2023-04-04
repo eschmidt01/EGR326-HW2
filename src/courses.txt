@@ -1,0 +1,5 @@
+EGR101, 3, Monday, 09:00, 10:30, John Smith, EBII 1003
+EGR201, 4, Tuesday, 11:00, 12:15, Sarah Johnson, EBII 2002
+EGR301, 3, Wednesday, 13:00, 14:15, Alex Rodriguez, HARRELSON 305
+EGR401, 4, Thursday, 14:30, 15:45, Emily Davis, RIDDICK 211
+EGR435, 3, Friday, 10:00, 11:15, David Lee, MANN 300

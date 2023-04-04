@@ -1,0 +1,5 @@
+EGR101, 3, M, Time@38082d64, -90
+EGR201, 4, T, Time@dfd3711, -75
+EGR301, 3, W, Time@42d3bd8b, -75
+EGR401, 4, T, Time@26ba2a48, -75
+EGR435, 3, F, Time@5f2050f6, -75
